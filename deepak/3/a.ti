@@ -1,0 +1,6 @@
+#include basePath/3/b.ti
+#include basePath/3/c.ti
+x=xInaIn3
+y=yInaIn3
+z=zInaIn3
+y$=y$InaIn3

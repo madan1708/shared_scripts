@@ -1,0 +1,9 @@
+#include basePath/4/d.ti
+#include basePath/4/e.ti
+x=xIncIn3
+y=yIncIn3
+z=zIncIn3
+x$=x$IncIn3
+y$=y$IncIn3
+z$=z$IncIn3
+z$$=z$$IncIn3
